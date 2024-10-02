@@ -21,3 +21,26 @@ descricao
 data
 - Métodos
 calcularXp();
+
+Sua pesquisa - BOOTCAMP
+ - Atributos
+nome
+descrição
+dataInicio
+dataFim
+conteudos
+devs
+ - Métodos
+não tem
+
+
+DEV
+ - Atributos
+nome
+conteudosInscritos
+conteudosConcluidos
+ - Métodos
+inscrever
+progredir
+calcularTotalXp
+Key Promoter X
